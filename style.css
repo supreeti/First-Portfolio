@@ -255,9 +255,9 @@
   display: flex;
   position: absolute;
   height: 24px;
-  left: 12px; 
+  left: 12px;
   right: 78px;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   width: 237px;
   color: #000;
@@ -323,10 +323,11 @@
 
 .font6 {
   display: flex;
-  position:absolute;
+  position: absolute;
   height: 24px;
-  left: 12px; right: 78px;
-  font-family: 'Poppins';
+  left: 12px;
+  right: 78px;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   width: 237px;
   color: #000;
