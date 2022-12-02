@@ -5,103 +5,76 @@
   font-family: 'Poppins', sans-serif;
 }
 
-.body {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: 'Poppins', sans-serif;
-}
-
-.wrapper {
-  width: 375px;
-}
-
-.header {
+.header1 {
   display: flex;
   justify-content: space-between;
-  align-items: stretch;
-  width: 100%;
+  align-items: center;
+  width: 90%;
   margin: auto;
   padding: 30px 0;
-}
+  }
 
-.logo {
+.header1 h3 {
   display: flex;
   flex-direction: row;
-  align-items: center;
-  padding: 10px 12px;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 20px;
   margin-left: 12px;
   margin-top: 4px;
-}
+  }
+
+.header1 h3 a{
+  text-decoration: none;
+  }
 
 .nav {
   padding: 8px;
-}
-
-.menu-icon {
-  display: flex;
-  flex-direction: row;
-  justify-content: right;
-  width: 18px;
-  height: 18px;
-  margin-right: 10px;
-  color: #6070ff;
-  cursor: pointer;
-}
-
-.section {
-  display: grid;
-  grid-template-columns: 1fr;
-  padding: 114px 24px;
-  gap: 12px;
-}
+  }
 
 .ul {
   list-style: none;
-}
+  }
 
-.headline {
+.section {
   display: flex;
   flex-direction: column;
   background-image: url("images/header-shapes mobile.png");
-  border-bottom-left-radius: 10px;
-}
+  background-size: cover;
+  width: 90%;
+  margin: auto;
+  padding: 100px 0;
+  }
 
-.headline-2 {
+.section h1{
   display: flex;
-  flex-direction: column;
-  background-image: none;
-  border-bottom-left-radius: 60px;
-}
-
-.title {
-  font-weight: 700;
   font-size: 40px;
-  line-height: 52px;
   color: #172b4d;
-}
+  line-height: 52px;
+  align-items: left;
+  padding: 50px 0 0 0;
+  }
 
-.details {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  color: #344563;
-}
-
-.social-media {
-  margin-left: 12px;
+.social-media ul {
+  display: flex;
   text-decoration: none;
   list-style: none;
-  display: flex;
-  gap: 30px;
-}
+  margin-bottom: 100px;
+  gap: 15px;
+  padding-top: 15px;
+  }
 
-.contact-title {
+.social-media h5 {
   display: flex;
-  font-weight: 600;
-  font-size: 18px;
-  line-height: 16px;
-  margin-left: 12px;
+  gap: 15px;
+  align-items: left;
+  font-size: 16px;
+  line-height: 24px;
   color: #6070ff;
-  border-bottom-left-radius: 60px;
-}
+  font-weight: 500;
+  padding-top: 15px;
+  }
+
+.social-media ul li {
+  text-decoration: none;
+  }
