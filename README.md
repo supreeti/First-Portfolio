@@ -50,7 +50,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git@github.com:supreeti/First-Portfolio.git
 ```
 ### Install
 
