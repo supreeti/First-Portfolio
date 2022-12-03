@@ -108,7 +108,7 @@
 .article4 {
   width: 327px;
   height: 596px;
-  gap: 12px; 
+  gap: 12px;
   padding: 16px;
   border: 1px solid #e3e5e9;
   border-radius: 16px;
@@ -278,16 +278,6 @@
   font-weight: 700;
   line-height: 52px;
 }
-
-.font8 {
-  width: 295px;
-  color: #172b4d;
-  font-size: 40px;
-  font-style: bold;
-  align-items: left;
-  font-weight: 700;
-  line-height: 52px;
-  }
 
 .font9 {
   width: 295px;
