@@ -392,7 +392,7 @@ label {
   line-height: 20px;
   padding: 16px;
   outline: none;
-  border:1px solid #cfd8dc;
+  border: 1px solid #cfd8dc;
   border-radius: 8px;
 }
 
@@ -405,7 +405,7 @@ label {
 
 .textarea1 {
   width: 100%;
-  background: #ffffff;
+  background: #fff;
   color: #b3bac5;
   font-size: 15px;
   font-weight: 400;
@@ -413,10 +413,9 @@ label {
   padding: 16px 15px 38px 15px;
   outline: none;
   font-style: normal;
-  font-family: 'Poppins';
-  border:1px solid #cfd8dc;
+  font-family: 'Poppins', sans-serif;
+  border: 1px solid #cfd8dc;
   border-radius: 8px;
-
 }
 
 .textarea1::placeholder {
