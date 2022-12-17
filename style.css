@@ -162,8 +162,8 @@
 .article2div,
 .article3div,
 .article4div {
-  flex:none;
-  order:0;
+  flex: none;
+  order: 0;
   flex-grow: 0;
   padding-left: 2px 0;
 }
@@ -175,9 +175,6 @@
   font-size: 32px;
   align-items: left;
   font-weight: 700;
-  /* flex:none;
-  order:0;
-  flex-grow: 0; */
 }
 
 .texttitle {
@@ -276,6 +273,15 @@
   padding: 10px 10px;
   border: 1px solid #6070ff;
   border-radius: 10px;
+  background-color: #fff;
+}
+
+.btn {
+  width: 140px;
+  height: 48px;
+  padding: 12px 16px;
+  border-radius: 8px;
+  color: #6070ff;
   background-color: #fff;
 }
 
@@ -465,15 +471,6 @@ label {
   line-height: 28px;
 }
 
-.btn {
-  width: 140px;
-  height: 48px;
-  padding: 12px 16px;
-  border-radius: 8px;
-  color: #6070ff;
-  background-color: #fff;
-}
-
 .btn:hover {
   padding: 12px 16px 12px 16px;
   border: 1px solid #fff;
@@ -580,14 +577,14 @@ label {
     border-radius: 20px;
     margin-top: 20px;
   }
-
+  
   .article1 .fig1,
   .article2 .fig1,
   .article3 .fig1,
   .article4 .fig1 {
     display: block;
-  } 
-
+  }
+  
   .article1 .fig2,
   .article2 .fig2,
   .article3 .fig2,
@@ -596,7 +593,7 @@ label {
     display: flex;
     justify-content: center;
   }
-
+  
   .article1 ul,
   .article2 ul,
   .article3 ul,
@@ -610,17 +607,17 @@ label {
   .float_box1 {
     margin: 7px 0 14px 0;
   }
-
+  
   .article1div,
   .article2div,
   .article3div,
   .article4div {
-    flex:none;
-    order:0;
+    flex: none;
+    order: 0;
     flex-grow: 0;
     padding-left: 2px 0;
   }
-
+  
   .about_section_align1 img {
     padding: 10px 0 0 0;
     background-color: #f7f7f9;
@@ -630,7 +627,7 @@ label {
     flex-direction: column;
     justify-content: flex-start;
   }
-
+  
   .article1 .fig2 img,
   .article2 .fig2 img,
   .article3 .fig2 img,
@@ -663,7 +660,7 @@ label {
     font-weight: 700;
    
   }
-
+  
   .ul1 {
     margin: 15px 0 10px 0;
   }
@@ -760,7 +757,7 @@ label {
     justify-content: flex-start;
     text-align: left;
   }
-
+  
   .font5 {
     color: #253858;
     line-height: 20px;
