@@ -127,7 +127,7 @@
 .article4 figure {
   display: flex;
   justify-content: center;
-} 
+}
 
 .article1 .fig2,
 .article2 .fig2,
@@ -617,7 +617,7 @@ label {
     flex: none;
     order: 0;
     flex-grow: 0;
-    padding: 590px 0 0px 0;
+    padding: 590px 0 0 0;
   }
   
   .about_section_align1 img {
@@ -639,7 +639,7 @@ label {
     object-fit: contain;
     object-position: left;
   }
-
+  
   .article1 .fig2 img:hover,
   .article2 .fig2 img:hover,
   .article3 .fig2 img:hover,
@@ -663,7 +663,7 @@ label {
     color: #091e42;
     font-size: 35px;
     line-height: 52px;
-    font-weight: 700; 
+    font-weight: 700px;
   }
   
   .ul1 {
