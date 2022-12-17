@@ -274,10 +274,6 @@
   background-color: #fff;
 }
 
-.btn {
-  color: #6070ff;
-}
-
 .article1 button:hover,
 .article2 button:hover,
 .article3 button:hover,
@@ -855,8 +851,6 @@ label {
     width: 70%;
     margin: auto;
     justify-content: center;
-    width: 70%;
-    margin: auto;
   }
 }
 
@@ -877,6 +871,5 @@ label {
     margin: auto;
     justify-content: center;
     width: 60%;
-    margin: auto;
   }
 }
