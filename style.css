@@ -570,11 +570,11 @@ label {
   .Snapshoot .article4 {
     display: flex;
     justify-content: center;
-    padding: 5px 0;
+    padding: 20px 0 20px 0;
     gap: 25px;
     width: 100%;
     margin: auto;
-    border-radius: 20px;
+    border-radius: 24px;
     margin-top: 20px;
   }
   
@@ -603,7 +603,7 @@ label {
     gap: 10px;
     list-style: none;
   }
-
+  
   .float_box1 {
     margin: 7px 0 14px 0;
   }
@@ -615,7 +615,7 @@ label {
     flex: none;
     order: 0;
     flex-grow: 0;
-    padding-left: 2px 0;
+    padding: 590px 0 20px 0;
   }
   
   .about_section_align1 img {
@@ -632,8 +632,8 @@ label {
   .article2 .fig2 img,
   .article3 .fig2 img,
   .article4 .fig2 img {
-    width: 200px;
-    height: 300px;
+    width: 544px;
+    height: 448px;
     object-fit: contain;
     object-position: center;
   }
@@ -650,6 +650,7 @@ label {
   }
 
   .show2 {
+    padding: 150px 0 20px 0;
     display: block;
   }
 
@@ -657,8 +658,7 @@ label {
     padding-top: 0;
     color: #091e42;
     font-size: 35px;
-    font-weight: 700;
-   
+    font-weight: 700; 
   }
   
   .ul1 {
@@ -834,11 +834,11 @@ label {
   .Snapshoot .article4 {
     display: flex;
     justify-content: center;
-    padding: 5px 0;
+    padding: 50px 0;
     gap: 35px;
     width: 100%;
     margin: auto;
-    border-radius: 20px;
+    border-radius: 24px;
     margin-top: 20px;
   }
 
