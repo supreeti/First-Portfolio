@@ -579,14 +579,12 @@ label {
     border-radius: 24px;
     margin-top: 20px;
   }
-   
   .article1 .fig1,
   .article2 .fig1,
   .article3 .fig1,
   .article4 .fig1 {
     display: block;
   }
-  
   .article1 .fig2,
   .article2 .fig2,
   .article3 .fig2,
@@ -595,7 +593,6 @@ label {
     display: flex;
     justify-content: center;
   }
-  
   .article1 ul,
   .article2 ul,
   .article3 ul,
@@ -605,11 +602,9 @@ label {
     gap: 10px;
     list-style: none;
   }
-  
   .float_box1 {
     margin: 7px 0 14px 0;
   }
-  
   .article1div,
   .article2div,
   .article3div,
@@ -619,7 +614,6 @@ label {
     flex-grow: 0;
     padding: 590px 0 0 0;
   }
-  
   .about_section_align1 img {
     padding: 10px 0 0 0;
     background-color: #f7f7f9;
@@ -629,7 +623,6 @@ label {
     flex-direction: column;
     justify-content: flex-start;
   }
-  
   .article1 .fig2 img,
   .article2 .fig2 img,
   .article3 .fig2 img,
@@ -639,7 +632,6 @@ label {
     object-fit: contain;
     object-position: left;
   }
-  
   .article1 .fig2 img:hover,
   .article2 .fig2 img:hover,
   .article3 .fig2 img:hover,
@@ -774,7 +766,6 @@ label {
     align-items: left;
     font-weight: 500;
   }
-
   .about_section_align1 {
     padding: 10px 2px 10px 2px;
     background-color: #f7f7f9;
@@ -882,7 +873,6 @@ label {
     align-items: left;
     padding: 0 0 0 25px;
   }
-  
   .box1 {
     width: 60%;
     margin: auto;
