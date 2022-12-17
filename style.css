@@ -4,7 +4,7 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
-  
+
 .header1 {
   display: flex;
   justify-content: space-between;
@@ -12,7 +12,7 @@
   width: 90%;
   margin: auto;
   padding: 30px 0 15px 0;
-}  
+}
 
 .header1 h3 {
   display: flex;
@@ -157,7 +157,7 @@
 
 .show2 {
   display: none;
-} 
+}
 
 .article1div,
 .article2div,
